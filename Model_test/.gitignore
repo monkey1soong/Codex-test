@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+results/
+.cache/
+*.safetensors
+*.bin
