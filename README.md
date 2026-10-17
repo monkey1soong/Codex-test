@@ -1,7 +1,7 @@
 # Transformer 실습
 
 - `qwen3_test/`: 사전 학습된 Qwen3-0.6B 추론 예제. 폴더 안의 README를 참고하세요.
-- [`Model_test/`](Model_test/README.md): SmolLM2-360M-Instruct 지시 이행·토큰 생성 테스트와 Colab 실행 안내.
+- [`Model_test/SmolLM2-360M-Instruct/`](Model_test/SmolLM2-360M-Instruct/README.md): Colab 인증·저장소 접근과 SmolLM2 지시 이행·토큰 생성 테스트.
 - `train.py`: 작은 decoder-only Transformer를 무작위 가중치부터 학습하는 단일 파일입니다. Qwen3 미세 조정이 아닌 문자 단위 다음 토큰 예측 실습입니다.
 
 ## Colab 실행
